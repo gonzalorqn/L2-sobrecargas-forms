@@ -1,0 +1,13 @@
+D:\VisualStudio\Requeni.Gonzalo\Clase04.WindowsForms\bin\Debug\Clase04.WindowsForms.exe.config
+D:\VisualStudio\Requeni.Gonzalo\Clase04.WindowsForms\bin\Debug\Clase04.WindowsForms.exe
+D:\VisualStudio\Requeni.Gonzalo\Clase04.WindowsForms\bin\Debug\Clase04.WindowsForms.pdb
+D:\VisualStudio\Requeni.Gonzalo\Clase04.WindowsForms\obj\Debug\Clase04.WindowsForms.csprojAssemblyReference.cache
+D:\VisualStudio\Requeni.Gonzalo\Clase04.WindowsForms\obj\Debug\Clase04.WindowsForms.FrmCosa.resources
+D:\VisualStudio\Requeni.Gonzalo\Clase04.WindowsForms\obj\Debug\Clase04.WindowsForms.Properties.Resources.resources
+D:\VisualStudio\Requeni.Gonzalo\Clase04.WindowsForms\obj\Debug\Clase04.WindowsForms.csproj.GenerateResource.cache
+D:\VisualStudio\Requeni.Gonzalo\Clase04.WindowsForms\obj\Debug\Clase04.WindowsForms.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Requeni.Gonzalo\Clase04.WindowsForms\obj\Debug\Clase04.WindowsForms.exe
+D:\VisualStudio\Requeni.Gonzalo\Clase04.WindowsForms\obj\Debug\Clase04.WindowsForms.pdb
+D:\VisualStudio\Requeni.Gonzalo\Clase04.WindowsForms\bin\Debug\Clase04.Entidades.dll
+D:\VisualStudio\Requeni.Gonzalo\Clase04.WindowsForms\bin\Debug\Clase04.Entidades.pdb
+D:\VisualStudio\Requeni.Gonzalo\Clase04.WindowsForms\obj\Debug\Clase04.WindowsForms.csproj.CopyComplete
